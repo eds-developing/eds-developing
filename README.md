@@ -1,4 +1,4 @@
-### Olá, sou Edson Martins, sou apaixonado por tecnologia. Sou Bacharel em Engenharia da Computação pela UFPA, trabalho com informatica a 8 anos, atualmente pretendo migrar para a área da programação.
+### Olá, Edson Martins aqui, sou apaixonado por tecnologia. Tenho formação em Bacharel em Engenharia da Computação pela UFPA, trabalho com informatica a 8 anos, atualmente pretendo migrar para a área da programação.
 
 - 🔭 Atualmente estou trabalhando em Suporte Computacional
 - 🌱 Atualmente estou aprendendo Java Scripit
